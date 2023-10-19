@@ -1,9 +1,6 @@
 ### Hi there 👋
 👋 Hi there, I'm Jon Nordby.
 
-    Location: Oslo, Norway. 🇩🇪
-    Contact: jononor@gmail.com
-
 ### Summary
 Machine Learning Engineer with background in software and electronics/embedded.
 
