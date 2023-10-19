@@ -1,16 +1,35 @@
 ### Hi there 👋
+👋 Hi there, I'm Jon Nordby.
 
-<!--
-**jonnor/jonnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Location: Oslo, Norway. 🇩🇪
+    Contact: jononor@gmail.com
 
-Here are some ideas to get you started:
+### Summary
+Machine Learning Engineer with background in software and electronics/embedded.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These days, I am particularly interested in **Machine Learning + microcontrollers** ("TinyML"),
+and **Machine Learning + Audio** ("Machine Hearing").
+
+In my spare time I maintain the [emlearn](https://emlearn.org) open-source software for efficient and convenient ML models on microcontrollers.
+I also provide a few learning resources on [Machine Learning for Embedded](https://github.com/jonnor/embeddedml), and [Machine Learning for Audio](https://github.com/jonnor/machinehearing/).
+
+### Top Skills 😎
+
+    Machine Learning & Data Science (6 years)
+    Python (13 years)
+    C (10 years)
+    Embedded / IoT development (10 years)
+    Image Processing (10 years)
+    Audio Processing (10 years)
+    Open Source development (13 years)
+    Linux/Unix Programming (13 years)
+
+<!-- Career Highlights 🚀 -->
+
+### Education 🎓
+
+* Master of Data Science. Norwegian University of Life Sciences
+* Bachelor in Electronics Engineering. University of South-Eastern Norway
+
+### Hobbies
+Digital fabrication. 3d-printing, CNC machining, laser-cutting.
