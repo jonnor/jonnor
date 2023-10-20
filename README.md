@@ -21,6 +21,11 @@ I also provide a few learning resources on [Machine Learning for Embedded](https
     Open Source development (13 years)
     Linux/Unix Programming (13 years)
 
+### Mentoring
+I provide technical mentoring around the areas I am a subject matter expert in.
+
+For initial requests, [![contact me on Codementor](https://www.codementor.io/m-badges/jonnor/book-session.svg)](https://www.codementor.io/@jonnor?refer=badge)
+
 <!-- Career Highlights 🚀 -->
 
 ### Education 🎓
